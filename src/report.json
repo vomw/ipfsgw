@@ -1,9 +1,9 @@
 {
   "https://4everland.io": {
     "metadata": {
-      "time": "2024-03-21T18:25:52.126085233Z",
+      "time": "2024-04-05T05:35:45.490039757Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://4everland.io"
     },
     "results": {
@@ -26,9 +26,9 @@
   },
   "https://cf-ipfs.com": {
     "metadata": {
-      "time": "2024-03-21T18:25:41.553295077Z",
+      "time": "2024-04-05T05:35:49.861539933Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://cf-ipfs.com"
     },
     "results": {
@@ -51,9 +51,9 @@
   },
   "https://cloudflare-ipfs.com": {
     "metadata": {
-      "time": "2024-03-21T18:25:53.053530923Z",
+      "time": "2024-04-05T05:35:53.134586Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://cloudflare-ipfs.com"
     },
     "results": {
@@ -76,9 +76,9 @@
   },
   "https://dweb.link": {
     "metadata": {
-      "time": "2024-03-21T18:26:24.99470366Z",
+      "time": "2024-04-05T05:35:50.518108918Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://dweb.link"
     },
     "results": {
@@ -101,9 +101,9 @@
   },
   "https://gateway.pinata.cloud": {
     "metadata": {
-      "time": "2024-03-21T18:25:57.263391746Z",
+      "time": "2024-04-05T05:35:55.791465853Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://gateway.pinata.cloud"
     },
     "results": {
@@ -126,9 +126,9 @@
   },
   "https://hardbin.com": {
     "metadata": {
-      "time": "2024-03-21T18:26:24.180823473Z",
+      "time": "2024-04-05T05:36:13.826595717Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://hardbin.com"
     },
     "results": {
@@ -149,17 +149,42 @@
       }
     }
   },
+  "https://ipfs.eth.aragon.network": {
+    "metadata": {
+      "time": "2024-04-05T05:37:51.139281119Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
+      "gateway_url": "https://ipfs.eth.aragon.network"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 1,
+        "fail": 1,
+        "skip": 0
+      }
+    }
+  },
   "https://ipfs.io": {
     "metadata": {
-      "time": "2024-03-21T18:30:04.875780392Z",
+      "time": "2024-04-05T05:39:05.878456908Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://ipfs.io"
     },
     "results": {
       "DNSLink": {
         "pass": 0,
-        "fail": 2,
+        "fail": 1,
         "skip": 0
       },
       "CORS": {
@@ -168,37 +193,7 @@
         "skip": 0
       },
       "JSON-CBOR": {
-        "pass": 4,
-        "fail": 1,
-        "skip": 0
-      },
-      "IPNS": {
-        "pass": 3,
-        "fail": 1,
-        "skip": 0
-      },
-      "Others": {
-        "pass": 2,
-        "fail": 4,
-        "skip": 0
-      },
-      "Block-CAR": {
-        "pass": 3,
-        "fail": 6,
-        "skip": 0
-      },
-      "Tar": {
         "pass": 1,
-        "fail": 0,
-        "skip": 0
-      },
-      "UnixFS": {
-        "pass": 2,
-        "fail": 1,
-        "skip": 0
-      },
-      "Subdomains": {
-        "pass": 0,
         "fail": 3,
         "skip": 0
       }
@@ -206,9 +201,9 @@
   },
   "https://ipfs.runfission.com": {
     "metadata": {
-      "time": "2024-03-21T18:29:09.332792089Z",
+      "time": "2024-04-05T05:37:25.925117452Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://ipfs.runfission.com"
     },
     "results": {
@@ -261,9 +256,9 @@
   },
   "https://nftstorage.link": {
     "metadata": {
-      "time": "2024-03-21T18:26:59.536715552Z",
+      "time": "2024-04-05T05:35:50.573929048Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://nftstorage.link"
     },
     "results": {
@@ -286,9 +281,9 @@
   },
   "https://trustless-gateway.link": {
     "metadata": {
-      "time": "2024-03-21T18:26:51.527645905Z",
+      "time": "2024-04-05T05:35:44.922977564Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://trustless-gateway.link"
     },
     "results": {
@@ -311,9 +306,9 @@
   },
   "https://w3s.link": {
     "metadata": {
-      "time": "2024-03-21T18:27:26.121261176Z",
+      "time": "2024-04-05T05:35:45.063143921Z",
       "version": "v0.5.0",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "job_url": "https://github.com/vomw/ipfsgw/actions/runs/8565521182",
       "gateway_url": "https://w3s.link"
     },
     "results": {
