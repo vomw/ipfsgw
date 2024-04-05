@@ -1,0 +1,337 @@
+{
+  "https://4everland.io": {
+    "metadata": {
+      "time": "2024-03-21T18:25:52.126085233Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://4everland.io"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://cf-ipfs.com": {
+    "metadata": {
+      "time": "2024-03-21T18:25:41.553295077Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://cf-ipfs.com"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://cloudflare-ipfs.com": {
+    "metadata": {
+      "time": "2024-03-21T18:25:53.053530923Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://cloudflare-ipfs.com"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 1,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://dweb.link": {
+    "metadata": {
+      "time": "2024-03-21T18:26:24.99470366Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://dweb.link"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 1,
+        "fail": 0,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://gateway.pinata.cloud": {
+    "metadata": {
+      "time": "2024-03-21T18:25:57.263391746Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://gateway.pinata.cloud"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 1,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://hardbin.com": {
+    "metadata": {
+      "time": "2024-03-21T18:26:24.180823473Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://hardbin.com"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://ipfs.io": {
+    "metadata": {
+      "time": "2024-03-21T18:30:04.875780392Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://ipfs.io"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 2,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 1,
+        "fail": 0,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 4,
+        "fail": 1,
+        "skip": 0
+      },
+      "IPNS": {
+        "pass": 3,
+        "fail": 1,
+        "skip": 0
+      },
+      "Others": {
+        "pass": 2,
+        "fail": 4,
+        "skip": 0
+      },
+      "Block-CAR": {
+        "pass": 3,
+        "fail": 6,
+        "skip": 0
+      },
+      "Tar": {
+        "pass": 1,
+        "fail": 0,
+        "skip": 0
+      },
+      "UnixFS": {
+        "pass": 2,
+        "fail": 1,
+        "skip": 0
+      },
+      "Subdomains": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://ipfs.runfission.com": {
+    "metadata": {
+      "time": "2024-03-21T18:29:09.332792089Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://ipfs.runfission.com"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 2,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 4,
+        "fail": 1,
+        "skip": 0
+      },
+      "IPNS": {
+        "pass": 2,
+        "fail": 2,
+        "skip": 0
+      },
+      "Others": {
+        "pass": 3,
+        "fail": 3,
+        "skip": 0
+      },
+      "Block-CAR": {
+        "pass": 3,
+        "fail": 6,
+        "skip": 0
+      },
+      "Tar": {
+        "pass": 1,
+        "fail": 0,
+        "skip": 0
+      },
+      "UnixFS": {
+        "pass": 2,
+        "fail": 1,
+        "skip": 0
+      },
+      "Subdomains": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://nftstorage.link": {
+    "metadata": {
+      "time": "2024-03-21T18:26:59.536715552Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://nftstorage.link"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://trustless-gateway.link": {
+    "metadata": {
+      "time": "2024-03-21T18:26:51.527645905Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://trustless-gateway.link"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 1,
+        "fail": 0,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://w3s.link": {
+    "metadata": {
+      "time": "2024-03-21T18:27:26.121261176Z",
+      "version": "v0.5.0",
+      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/8379219565",
+      "gateway_url": "https://w3s.link"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  }
+}
